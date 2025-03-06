@@ -1,6 +1,7 @@
 package gitCourse;
 
 // this is a comment from local repository
+// this is a comment from remote repository
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
