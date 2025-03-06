@@ -1,5 +1,6 @@
 package gitCourse;
 
+// this is a comment from local repository
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
