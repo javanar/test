@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+Patika.iml
+
+.idea
+
+*.jar
+
+target/*
+!target/important.txt
